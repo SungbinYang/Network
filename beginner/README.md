@@ -6,3 +6,4 @@
 - 사전개념
 - Layer와 Layered 구조
 - 네트워크와 네트워킹 그리고 개념
+- User mode와 Kernel mode
