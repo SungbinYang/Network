@@ -7,3 +7,7 @@
 - Layer와 Layered 구조
 - 네트워크와 네트워킹 그리고 개념
 - User mode와 Kernel mode
+
+## Internet 기반 네트워크 입문
+
+- OSI 7 layer와 식별자
