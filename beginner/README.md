@@ -11,3 +11,4 @@
 ## Internet 기반 네트워크 입문
 
 - OSI 7 layer와 식별자
+- Host는 이렇게 외우자

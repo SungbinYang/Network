@@ -25,3 +25,11 @@ ifconfig
 ```
 
 추가적으로 OSI 7 Layer 말고 DoD 4 Layer가 있는데 L1~L2는 Network Access 계층이라고 부르고 이것은 H/W 관점에서 설명하는 계층이고 L3계층은 똑같이 Internet 계층, L4계층을 Host to Host 계층, L5~L7은 Application 계층이라고 불린다.
+
+## Host는 이렇게 외우자
+
+인터넷이라는 네트워크가 등장함에 기존의 단어들이 바뀐다. 예를 들면 컴퓨터라는 것에는 PC와 모바일등 여러 형태가 있는데 이 컴퓨터가 네트워크와 연결이 되면 이때 용어를 Host라고 부른다.
+
+근데 Host를 지칭할때 크게 2가지로 분류가 되는데 End-Point와 Switch로 구분된다. 이때 Switch는 네트워크 그 자체를 이루는 Host를 Switch라 하면 대표적으로 Router가 있고 그 외에도 보안 스위치인 IPS, 관리목적 스위치인 Tab 스위치, Aggregation 스위치가 존재한다.
+
+End-Point(단말기)는 네트워크 이용주체를 의미하며 대표적으로 Client, Server가 있고 이렇게 분류하는 것은 단말기의 역할에 따라 분류한것이다. 단말기 역할이 제공하는 쪽은 Server, 받는 쪽은 Client, 둘다는 Peer라고 한다.
