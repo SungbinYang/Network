@@ -19,3 +19,7 @@
 - NIC, L2 Frame, LAN 카드 그리고 MAC 주소
 - L2 스위치에 대해서
 - LAN과 WAN의 경계 그리고 Broadcast
+
+## L3 수준에서 외울 것들
+
+- IPv4주소의 기본 구조
