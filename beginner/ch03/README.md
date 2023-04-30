@@ -39,3 +39,17 @@ Packet은 논리적 구조로 보면 header와 그의 상대적인 개념으로 
 Packet의 최대 크기는 MTU라는 단위를 쓴느데 MTU 범위는 header 시작점부터 Payload끝까지를 의미하며 크기는 1500byte정도로 굉장히 작다. Packet을 예시로 택배박스라고 생각하면 좋을 것이다. 택배박스를 생각하면 송장이 있고 송장에는 출발지 목적지가 있고 택배박스 안에 택배 상품이 있는것처럼 Packet도 header라는 송장이 있고 내용물의 Payload가 존재한다.
 
 > [WireShark](https://www.wireshark.org/)라는 프로그램으로 packet 정보를 확인이 가능한데 확인해보면 16진수 덩어리고 이루어진다. wireshark는 protocol decoder, Analyzer, sniffer로 불리며 의사로 치면 청진기로 packet을 수집 분석을 하고 장애시 원인분석을 할 수 있다.
+
+## Encapsulation과 Decapsulation
+
+### Encapsulation
+
+- 별것 아니다. 러시아 전통 목각 인형인 마트료시카 인형을 떠올리자.
+
+패킷을 애기하면 따라다니는게 Encapsulation이다. Encapsulation은 어떤 물건이 있으면 우리가 택배박스를 구해와 물건을 포장하고 택배박스에 넣고 테이핑을 한다. 이렇게 감싸가지고 안에 집어 넣는 행위를 Encapsulation이라고 한다. 여기서 '집어 넣는다'라는 행위에 대해 트징이 어떤 단위로 바꿨다, 단위화했다는 것이다. 그리고 이렇게 택배박스로 집어넣으면 택배기사님은 이게 어떤 물건인지 확인이 어렵다. 즉 단위화작업은 한편으로 남에게 못보게 캡슐화했다라고 볼 수 있다. 이걸 N/W 버전으로 보면 아래와 같다.
+
+### En/Decapsulation
+
+![](https://velog.velcdn.com/images/bini/post/d279feef-8176-4312-a56d-d319a490d775/image.png)
+
+실제 네트워크 버전으로는 L2 Frame안에 payload에 L3 Packet이 들어가고 Packet Payload 안에 L4 Segmant가 들어간다. 이렇게 집어 넣는게 Encapsulation 꺼내는 행위가 Decapsulation이다.
