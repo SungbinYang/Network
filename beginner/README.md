@@ -25,3 +25,4 @@
 - IPv4주소의 기본 구조
 - L3 IP Packet으로 외워라
 - Encapsulation과 Decapsulation
+- 패킷의 생성과 전달
