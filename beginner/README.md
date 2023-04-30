@@ -26,3 +26,4 @@
 - L3 IP Packet으로 외워라
 - Encapsulation과 Decapsulation
 - 패킷의 생성과 전달
+- 계층별 데이터 단위
