@@ -27,3 +27,4 @@
 - Encapsulation과 Decapsulation
 - 패킷의 생성과 전달
 - 계층별 데이터 단위
+- 이해하면 인생이 바뀌는 TCP/IP 송·수신구조
