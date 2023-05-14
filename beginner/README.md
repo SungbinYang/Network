@@ -33,3 +33,4 @@
 - Broadcast IP주소
 - Host 자신을 가리키는 IP주소
 - TTL과 단편화
+- 인터넷 설정 자동화를 위한 DHCP
