@@ -30,3 +30,4 @@
 - 이해하면 인생이 바뀌는 TCP/IP 송·수신구조
 - IP 헤더 형식
 - 서브넷 마스크와 CIDR
+- Broadcast IP주소
