@@ -31,3 +31,4 @@
 - IP 헤더 형식
 - 서브넷 마스크와 CIDR
 - Broadcast IP주소
+- Host 자신을 가리키는 IP주소
