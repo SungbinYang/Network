@@ -35,3 +35,4 @@
 - TTL과 단편화
 - 인터넷 설정 자동화를 위한 DHCP
 - ARP
+- Ping과 RTT
