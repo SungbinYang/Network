@@ -8,3 +8,4 @@
 - Proxy - 우회
 - Proxy - 보호와 감시
 - Reverse Proxy
+- PC에 설치하는 Proxy
