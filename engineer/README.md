@@ -4,3 +4,4 @@
 
 - 세 가지 네트워크 장치 구조
 - Inline 구조
+- Out of path 구조와 DPI 그리고 망중립
