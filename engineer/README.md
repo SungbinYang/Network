@@ -6,3 +6,4 @@
 - Inline 구조
 - Out of path 구조와 DPI 그리고 망중립
 - Proxy - 우회
+- Proxy - 보호와 감시
