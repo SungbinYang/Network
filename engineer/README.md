@@ -9,3 +9,7 @@
 - Proxy - 보호와 감시
 - Reverse Proxy
 - PC에 설치하는 Proxy
+
+## 인터넷 공유기 작동원리
+
+- 공유기 작동원리 및 개요
