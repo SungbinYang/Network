@@ -14,3 +14,4 @@
 
 - 공유기 작동원리 및 개요
 - Symmetric NAT 방식
+- Full Cone 방식과 내부 네트워크 접속 문제
