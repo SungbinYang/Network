@@ -18,3 +18,4 @@
 - Restricted Cone 방식
 - Port Restricted Cone 방식
 - 포트 포워딩
+- UPnP와 NAT
