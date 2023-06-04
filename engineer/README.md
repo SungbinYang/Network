@@ -17,3 +17,4 @@
 - Full Cone 방식과 내부 네트워크 접속 문제
 - Restricted Cone 방식
 - Port Restricted Cone 방식
+- 포트 포워딩
