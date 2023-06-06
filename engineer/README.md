@@ -19,3 +19,7 @@
 - Port Restricted Cone 방식
 - 포트 포워딩
 - UPnP와 NAT
+
+## 부하분산 시스템 작동원리
+
+- L4 부하분산과 무정지 시스템
