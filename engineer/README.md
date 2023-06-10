@@ -29,3 +29,4 @@
 
 - PN과 VPN
 - IPSec VPN과 터널링 개념
+- VPN과 재택근무
